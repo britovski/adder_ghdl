@@ -27,6 +27,8 @@ adder_tb  | 8-bit Adder Testbench.
 
 #### Procedures
 
+In order to better organize a directory structure, I recommend to create '/src/vhdl' for source files and '/waves' for waveform files, inside a '/adder/' folder.
+
 ```bash
 
 # Analysis of description files
